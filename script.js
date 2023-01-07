@@ -317,3 +317,5 @@ movementRight(createRows(squares))
 movementLeft(createRows(squares))
 movementDown(createColumns(createRows(squares)))
 movementUp(createColumns(createRows(squares)))
+
+console.log("easy")
